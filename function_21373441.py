@@ -1,1 +1,1 @@
-print('My student_id: 学号')[D21373441')
+print('My student_id: 21373441')
